@@ -22,3 +22,4 @@ JIRA
 - Xây dựng quy trình khép kín 	
 /
 learning jira, jenkin, git
+commit again
