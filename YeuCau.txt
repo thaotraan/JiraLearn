@@ -1,0 +1,22 @@
+JIRA
+
+- Jenkin:
+	+ Tích hợp tự động build code
+	+ Tích hợp tự động coding convention
+	+ Tích hợp với công cụ quét bảo mật code
+	+ Tích hợp test tự động (Selinium driver,..)
+	
+- Git:
+	+ Hỗ trợ quản lý source code theo version
+	+ Giao diện hỗ trợ so sánh trực quan hơn svn
+	+
+- JIRA:
+*	+ So sánh với Taiga: ưu nhược điểm, khác biệt, tại sao nên chuyển sang jira
+		- taiga ko tích hợp được với jenkin
+		- taiga không hỗ trợ cho việc tiếp nhận các khiếu nại từ bên ngoài, chủ yếu chỉ phục vụ cho deverlop
+	+ Khai thác các tính năng
+- Phương án chuyển đổi giữa hệ thống cũ sang mới
+
+==> Nhiệm vụ:
+- Đưa ra được lý do vì sao chuyển đổi sang jira
+- Xây dựng quy trình khép kín 	
