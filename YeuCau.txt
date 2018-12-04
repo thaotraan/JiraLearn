@@ -20,3 +20,5 @@ JIRA
 ==> Nhiệm vụ:
 - Đưa ra được lý do vì sao chuyển đổi sang jira
 - Xây dựng quy trình khép kín 	
+/
+learning jira, jenkin, git
